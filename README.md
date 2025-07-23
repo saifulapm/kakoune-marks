@@ -2,6 +2,10 @@
 
 A vim-like marks system for Kakoune that allows you to set, navigate to, and manage bookmarks within your files and across your project.
 
+## Demo
+
+[![asciicast](https://asciinema.org/a/vX8EaVaakIEDk8MysoOnah3dl.svg)](https://asciinema.org/a/vX8EaVaakIEDk8MysoOnah3dl)
+
 ## Features
 
 - **Local marks** (`a-z`): File-specific bookmarks that remember cursor position within the current buffer
